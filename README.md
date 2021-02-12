@@ -1,5 +1,5 @@
 # Deep-QLearning-Experimentation-GraduateProject2
-This is the second project from my Reinforcement Learning graduate program.
+This is the second project from my Reinforcement Learning graduate program from 2019.
 
 The goal of this project was to test different parameters for a Deep Q-Network and identify the best parameters to build the best model.
 
